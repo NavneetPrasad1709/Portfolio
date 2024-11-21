@@ -1,9 +1,12 @@
 {
+  "homepage": "https://NavneetPrasad1709/github.io/Portfolio",
   "name": "portfolio-wrbsite-new",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy" : "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -12,7 +15,9 @@
   "dependencies": {
     "@gsap/react": "^2.1.1",
     "@lottiefiles/dotlottie-react": "^0.9.3",
+    "gh-pages": "^6.2.0",
     "gsap": "^3.12.5",
+    "install": "^0.13.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "remixicon": "^4.5.0"
