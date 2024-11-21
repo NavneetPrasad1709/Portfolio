@@ -29,7 +29,7 @@ const Page1 = () => {
 
     <div className="main-image shadow-xl p-20 shadow-gray-700 h-screen bg-cover rounded-[40px] bg-[url(src/assets/mainbg2.jpg)]">
 
-    <img className="logo h-14 ml-" src="src/assets/logo.png" alt="" />
+    <img className="logo h-14 ml-" src="https://github.com/NavneetPrasad1709/Portfolio/blob/main/src/assets/logo.png" alt="" />
 
     <TiltText abc={tiltRef} />
     <Page1Bottom />
