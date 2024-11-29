@@ -14,12 +14,12 @@ const Page4 = () =>{
 
       <div className='sub3 absolute flex mt-[4vw] m-1 p-1 '>
          <div  >
-         <img className='joblogo ml-[4vw] h-[5vw] -mt-[28vw]' src="src/assets/skills lmages/html.png" alt="" />
+         <img className='joblogo ml-[4vw] h-[5vw] -mt-[28vw]' src="./src/assets/skills lmages/html.png" alt="" />
          <h3 className='jobtext ml-[4vw] absolute text-[1vw] font-[anzo2] text-white w-20 text-center'>HTML</h3>
          </div>
 
          <div  >
-         <img className='joblogo ml-[3vw] h-[5vw] -mt-[28vw]' src="src/assets/skills lmages/css.png" alt="" />
+         <img className='joblogo ml-[3vw] h-[5vw] -mt-[28vw]' src="../src/assets/skills lmages/css.png" alt="" />
          <h3 className='jobtext ml-[3vw] absolute text-[1vw] font-[anzo2] text-white w-20 text-center'>CSS</h3>
          </div>
 

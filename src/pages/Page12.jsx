@@ -5,7 +5,7 @@ const Page12 = () =>{
 <div className='h-[58vw]  p-5 mt-16'>
         
 <div className='main12 relative   '>
-  <video className='sub12 w-[100vw] absolute mt-10 h-[50vw] bg-black rounded-[40px]' loop muted autoPlay src="src/assets/page12.mp4"></video>
+  <video className='sub12 w-[100vw] absolute mt-10 h-[50vw] bg-black rounded-[40px]' loop muted autoPlay src='../src/assets/video1.mp4'></video>
       <div className='ml-[34vw] absolute text-center flex-col justify-items-center mt-[11vh] rounded-[40px]'>
 
         <div className=' w-[25vw]'>

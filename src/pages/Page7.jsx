@@ -3,7 +3,7 @@ import React from 'react'
 
 const Page7 = () =>{
   return (
-<div className='main7   w-[100vw]  p-5 mt-16'>
+<div className='main7 w-[100vw]  p-5 mt-16'>
 
 
         

@@ -10,7 +10,7 @@ const Page8 = () =>{
       <div className=' '>
         <h1 className='text1-8 mt-10 absolute text-[20vw] font-[anzo5] text-yellow-200 uppercase top-5 left-20'>Right</h1>
         <h1 className='text2-8 mt-10 absolute text-[18vw] font-[anzo5] text-white uppercase top-64 left-20'>fit</h1>
-        <img className='img8 mt-10 relative top-80 left-20' src="src/assets/rightfit.png" alt="" />
+        <img className='img8 mt-10 relative top-80 left-20' src="../src/assets/rightfit.png" alt="" />
 
         
 
