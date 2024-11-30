@@ -9,7 +9,7 @@ const Page3 = () =>{
 
 
 
-        <video loop muted autoPlay className=' custom-video z-10 relative object-cover ' src="src/assets/video1.mp4"></video>
+        <video loop muted autoPlay className=' custom-video z-10 relative object-cover ' src="./src/assets/video1.mp4"></video>
 
         <div className='line h-0.5 w-3/5 top-[40%] absolute z-0 bg-black' ></div>
         <div className='line h-0.5 w-4/5 top-[55%] absolute z-0 bg-black' ></div>

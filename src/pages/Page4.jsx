@@ -24,12 +24,12 @@ const Page4 = () =>{
          </div>
 
          <div >
-         <img className='joblogo ml-[3vw] h-[5vw] -mt-[28vw]' src="src/assets/skills lmages/js.png" alt="" />
+         <img className='joblogo ml-[3vw] h-[5vw] -mt-[28vw]' src="./src/assets/skills lmages/js.png" alt="" />
          <h3 className=' jobtext ml-[3vw] absolute text-[1vw] font-[anzo2] text-white '>JavaScript</h3>
          </div>
 
          <div >
-         <img className='joblogo ml-[3vw] h-[5vw] -mt-[28vw]' src="src/assets/skills lmages/mangodb.png " alt="" />
+         <img className='joblogo ml-[3vw] h-[5vw] -mt-[28vw]' src="../src/assets/skills lmages/mangodb.png " alt="" />
          <h3 className='jobtext ml-[3vw] absolute text-[1vw] font-[anzo2] text-white '>Mango DB</h3>
          </div>
 
