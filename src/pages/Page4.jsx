@@ -3,7 +3,7 @@ import React from 'react'
 const Page4 = () =>{
   return (
 
-<div className='main4  w-full h-[120vh] p-5 mt-10'>
+<div className='main4 bg-black w-full h-[120vh] p-5 mt-10'>
   <div className='sub4-1 overflow-hidden h-full rounded-[40px] '>
        <img className='z-0 bgimg' src="https://static.wixstatic.com/media/f1c650_1baf8f9dcad444669565ec73ee697a92~mv2.jpg/v1/fill/w_1550,h_880,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Background%20Anzo_Studio.jpg" alt="" />
 
