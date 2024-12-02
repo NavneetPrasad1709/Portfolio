@@ -27,7 +27,7 @@ const Page1 = () => {
   return (
 <div id="page1" onMouseMove={mouseMoving} className="h-screen p-4 bg-white">
 
-    <div className="main-image shadow-xl p-20 shadow-gray-700 h-screen bg-cover rounded-[40px] bg-[url(https://images.unsplash.com/photo-1508179522353-11ba468c4a1c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)]">
+    <div className="main-image shadow-xl p-20 shadow-gray-700 h-screen bg-cover rounded-[40px] bg-[url(.src/assets/mainbg2.jpg)">
 
     <img className="logo h-14 ml-" src="https://github.com/NavneetPrasad1709/Portfolio/blob/main/src/assets/logo.png" alt="" />
 
